@@ -11,6 +11,6 @@ automl_config = AutoMLConfig(
 
   
 )
-# use with the energy days set
+# todo: use with the energy use data set
 
 # TODO: run an experiment using automl experiment class
